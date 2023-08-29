@@ -46,4 +46,4 @@ Feel free to reach out through any of these channels! Whether it's about project
 
 ### 😄 Fun with Code: Programming Jokes and Chuckles 🤖
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gruvbox)
