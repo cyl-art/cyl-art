@@ -1,4 +1,4 @@
-### Greetings, I'm Naryna Azizpour 👋
+## Greetings, I'm Naryna Azizpour 👋
 
 I'm a Computer Science student at the University of Chicago, passionate about finding creative solutions to real-world problems. My journey in the world of technology has exposed me to a diverse set of skills and tools.
 
@@ -25,5 +25,9 @@ I'm a Computer Science student at the University of Chicago, passionate about fi
 #### Device Provisioning:
 ![Computer Imaging](https://img.shields.io/badge/Computer_Imaging-Advanced-brightgreen)
 
-## How to reach me 📫
+### How to reach me 📫
 Let's connect, collaborate, and shape the future together! Feel free to reach out to me at [naryna2004@gmail.com](mailto:naryna2004@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/naryna-azizpour). Whether it's a project, a question, or just a friendly chat, I'm always excited to hear from fellow tech enthusiasts.
+
+### 😄 Fun with Code: Programming Jokes and Chuckles 🤖
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gruvbox)
