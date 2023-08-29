@@ -39,7 +39,7 @@ Each project in this repository comes with its own detailed README, so you can d
 
 Here are some ways to connect with me:
 
-📧 **Email:** [naryna2004@gmail.com](mailto:naryna2004@gmail.com)
+📧 **Email:** [naryna2004@gmail.com](mailto:naryna2004@gmail.com)<br>
 📱 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/naryna-azizpour)
 
 Feel free to reach out through any of these channels! Whether it's about projects, tech discussions, or just a friendly chat, I'm always here.
