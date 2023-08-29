@@ -33,7 +33,7 @@ Looking to explore some of my projects? You can find them in my dedicated projec
 
 📁 [cs50-ai Repository](https://github.com/cyl-art/cs50-ai)
 
-Each project in this repository comes with its own detailed README, so you can dive right in and discover more about my work.
+Each project is located on a separate branch and comes with its own detailed README, so you can dive right in and discover more about my work.
 
 ### How to reach me 📫
 
