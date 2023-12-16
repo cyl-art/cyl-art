@@ -29,7 +29,7 @@ I'm a Computer Science student at the University of Chicago, passionate about fi
 
 ### My Projects 🚀
 
-Looking to explore some of my projects? You can find them in my dedicated projects repository!
+You can find my personal projects in the dedicated projects repository.
 
 📁 [personal-projects](https://github.com/cyl-art/cs50-ai)
 
