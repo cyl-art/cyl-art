@@ -33,7 +33,7 @@ You can find my personal projects in the dedicated projects repository:
 
 📁 [personal-projects](https://github.com/cyl-art/cs50-ai)
 
-Each project is located on a separate branch and comes with its own detailed README, so you can dive right in and discover more about my work.
+Each project has short description in the `README` file and also comes with the `overview.txt` file with more information, so you can discover more about my work.
 
 ### How to reach me 📫
 
