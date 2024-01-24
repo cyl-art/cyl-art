@@ -9,7 +9,7 @@ I'm a Computer Science student at the University of Chicago, passionate about fi
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-Advanced-brightgreen)
 ![C](https://img.shields.io/badge/C-Advanced-brightgreen)
-![R](https://img.shields.io/badge/C-Advanced-brightgreen)
+![R](https://img.shields.io/badge/R-Advanced-brightgreen)
 ![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
 
 #### Web and App Development:
